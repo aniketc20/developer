@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aniket-portfolio/static/css/main.1818cde5.css",
+    "main.js": "/aniket-portfolio/static/js/main.e6ded433.js",
+    "static/js/787.f0f158cf.chunk.js": "/aniket-portfolio/static/js/787.f0f158cf.chunk.js",
+    "index.html": "/aniket-portfolio/index.html",
+    "main.1818cde5.css.map": "/aniket-portfolio/static/css/main.1818cde5.css.map",
+    "main.e6ded433.js.map": "/aniket-portfolio/static/js/main.e6ded433.js.map",
+    "787.f0f158cf.chunk.js.map": "/aniket-portfolio/static/js/787.f0f158cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1818cde5.css",
+    "static/js/main.e6ded433.js"
+  ]
+}
