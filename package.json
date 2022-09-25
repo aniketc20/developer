@@ -1,6 +1,7 @@
 {
   "name": "aniket-portfolio",
   "version": "0.1.0",
+  "homepage": "https://aniketsonu.github.io/aniket-portfolio",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -18,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
