@@ -25,9 +25,10 @@ const About = () => {
       <ThemeProvider theme={theme}>
         <Typography variant="h5" sx={{m: 2}}>
             <p>
-                I am an incoming Advanced App Engineering Software Associate at Accenture
-                <img src='https://logos-world.net/wp-content/uploads/2020/07/Accenture-Logo.png'
+                I work at Accenture
+                <img src='https://logos-world.net/wp-content/uploads/2020/06/Accenture-Emblem.png'
                 style={{'width':'40px', 'height':'20px'}}></img>, India
+                as an Advanced App Engineering Software Associate!
             </p>
             I have always been 
             passionate about web development from my sophomore year.
