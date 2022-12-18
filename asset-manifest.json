@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aniket-portfolio/static/css/main.653b2039.css",
-    "main.js": "/aniket-portfolio/static/js/main.6e0285db.js",
-    "static/js/787.f0f158cf.chunk.js": "/aniket-portfolio/static/js/787.f0f158cf.chunk.js",
-    "static/media/aniket.jpeg": "/aniket-portfolio/static/media/aniket.7f34c5f454c26d3d3a8b.jpeg",
-    "index.html": "/aniket-portfolio/index.html",
-    "main.653b2039.css.map": "/aniket-portfolio/static/css/main.653b2039.css.map",
-    "main.6e0285db.js.map": "/aniket-portfolio/static/js/main.6e0285db.js.map",
-    "787.f0f158cf.chunk.js.map": "/aniket-portfolio/static/js/787.f0f158cf.chunk.js.map"
+    "main.css": "/static/css/main.653b2039.css",
+    "main.js": "/static/js/main.46289291.js",
+    "static/js/787.aaac8cfd.chunk.js": "/static/js/787.aaac8cfd.chunk.js",
+    "static/media/aniket.jpeg": "/static/media/aniket.7f34c5f454c26d3d3a8b.jpeg",
+    "index.html": "/index.html",
+    "main.653b2039.css.map": "/static/css/main.653b2039.css.map",
+    "main.46289291.js.map": "/static/js/main.46289291.js.map",
+    "787.aaac8cfd.chunk.js.map": "/static/js/787.aaac8cfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.653b2039.css",
-    "static/js/main.6e0285db.js"
+    "static/js/main.46289291.js"
   ]
 }
