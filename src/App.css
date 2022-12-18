@@ -48,6 +48,15 @@
   color: white;
 }
 
+.Connect {
+  display: flex-column;
+  background-color: #3c3e42;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: rgb(229, 253, 254);
+  padding: 20px;
+}
+
 .App-link {
   color: #61dafb;
 }

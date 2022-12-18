@@ -7,6 +7,8 @@ import Avatar from '@mui/material/Avatar';
 import About from './About';
 import Projects from './Projects';
 import Skills from './Skills';
+import aniket from './images/aniket.jpeg';
+import Connect from './Connect';
 
 function Item(props) {
     const { sx, ...other } = props;
@@ -66,8 +68,7 @@ const Homepage = () => {
       
         <div className='App-header' ref={home}>
         <Box sx={{ display: 'flex-col', border: 4, borderRadius: '5px', borderColor: '#212129', p:3, justifyContent: 'center', width: '40%', height: '40vh', bgcolor:"#282c34" }}>
-            <Avatar src=
-                "https://lh3.googleusercontent.com/LQK8STOG46poW85KNdtCgKo8QRV_VFAqmxE8j-z4inSNWAfwuJpIeak8iii3JYSKpIlaOnAvDYZ5PclZtHzmA1CLHF8hVtuHD7wIe-yfE8eGYcNHMxr2jFMAkebDXNSnH9TOL5sT4bsD5aDQWxsGG13VhyFWegMUYPlQsocrfSPD2maFdbIlbKqIMKXC5G25MbQc61VHWLjaEm8AV5xjH0kGQtMl9U3emQAsx1v8BN92oIareC9_gFBSChrumPmXz90_wn_reA1oD0nLLaZjsvFbgDnpw3JHiVPOk5-aBDnNYDVjuhCgip8B7A-jYwW45vX3xcvLSrfN0k5xNsifIAaROtynpt3ktLjbHVTbM1xBje1EQz6vXFv4zQhGVXXvYakFubeL4XNOyEs9aFy9QJGCEUI-n_C3eIQ8cCf8JNqHi6YK5fWFIzw8ChTlt6e7pypQVHtdnBiOKKEb2JRnRIrXfi3YANgNDsfJL5NPps6fqFtzEr-N3CuE1RLwFky1t3Cy6tQhQa7ApjTvDyfrOu_JEzC0IQVvJ1UdDqF94GI0CmzEgXhp7dnyy05bjVpBkWzhkX8YkuzE8JfNz7m2l1V0YUHbpyXK8SUGVxS-Jx6EnM033cztNPVX9lRtOGFLqnx-RL5hbIhm_7BYxlIMOpuVnJ-yf7eFM1cKL8yQM1j8F9k7H2i7VPqq5BdSsLiFw0JuiIPIQ3JvNf-q1HqGx7WsaEaVuSTSKCk5vKbMxCKvDAbPkTR999ZVuRtI8eQg_JkDFgDF9vcgiQvrnf6Pz1iQPdUg6K-y5Z5UHlDaZkCwk-pSOq6v0AoU2g8bH5Avl-geMG4HGwLQ2pJLdbFiSIC94HSC0QHV8PVLLKPbaMl1Mj9hbwTCiGXJhPLYM7o3rqh8OHFz7SL5Fw73QgGDDjFSYfVdaKqNlLdOllpaFLHSnsBJQXFkcpdkL-zQmaNbDmglPsdhZ5sDFWDnLcwMwrUvYdNkP-oe4CD6nxqn2E_qAMNbpIo9oEFTIKsh5spOGS3qG1473NmFUOjP1bbE5w=w652-h737-no?authuser=0"
+            <Avatar src={aniket}
                 sx={{ width: 100, height: 110, m: 'auto' }}>
             </Avatar>
         
@@ -93,6 +94,9 @@ const Homepage = () => {
         </div>
         <div ref={bottomRef}>
             <Projects />
+        </div>
+        <div>
+            <Connect />
         </div>
     </div>
   )
