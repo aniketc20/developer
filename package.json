@@ -1,7 +1,7 @@
 {
-  "name": "aniket-portfolio",
+  "name": "developer",
   "version": "0.1.0",
-  "homepage": "https://aniketsonu.github.io/aniket-portfolio",
+  "homepage": "https://aniketsonu.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
