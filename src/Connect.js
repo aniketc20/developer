@@ -20,7 +20,7 @@ const Connect = () => {
         <Button sx= {{p:2, borderRadius: '100%'}} href='https://github.com/aniketc20'>
             <Avatar src={githubIcon}></Avatar>
         </Button>
-        <Button sx= {{p:2, borderRadius: '100%'}} href='https://www.instagram.com/_a.n.i.k.e.t/?next=%2F'>
+        <Button sx= {{p:2, borderRadius: '100%'}} href='https://www.instagram.com/a.n.i.k.e.t.2/?next=%2F'>
             <Avatar src={instagramIcon}></Avatar>
         </Button>
       </Box>
