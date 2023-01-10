@@ -17,7 +17,7 @@ const Connect = () => {
         <Button sx= {{p:2, borderRadius: '100%'}} href='https://www.linkedin.com/in/aniket-choudhary-00163517a/'>
             <Avatar src={linkedInIcon}></Avatar>
         </Button>
-        <Button sx= {{p:2, borderRadius: '100%'}} href='https://github.com/aniketsonu'>
+        <Button sx= {{p:2, borderRadius: '100%'}} href='https://github.com/aniketc20'>
             <Avatar src={githubIcon}></Avatar>
         </Button>
         <Button sx= {{p:2, borderRadius: '100%'}} href='https://www.instagram.com/_a.n.i.k.e.t/?next=%2F'>
